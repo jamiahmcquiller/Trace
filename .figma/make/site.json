@@ -1,0 +1,11 @@
+{
+  "title": "Phase",
+  "description": "Explore crime incidents around the University of Michigan–Flint with an interactive map and filters, enhancing safety awareness for students and residents.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
